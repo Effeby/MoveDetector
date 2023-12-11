@@ -5,5 +5,7 @@ Avant d'utiliser ce projet :
 - Activer le avec la commande venv/scripts/activate
 - Installer ces bibliothèques : cv2, pygame (avec les commandes pip install cv2 et pip install pygame)
 - Importer les bibliothèque dans votre fichier python comme ceci :
-import cv2
-import pygame
+  import cv2
+  import pygame
+
+  NB: assurez-vous que votre commande pip est a jour
