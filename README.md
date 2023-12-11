@@ -8,4 +8,6 @@ Avant d'utiliser ce projet :
   import cv2
   import pygame
 
-  NB: assurez-vous que votre commande pip est a jour
+  NB:
+  - Assurez-vous que votre commande pip est a jour
+  - Le fichier alert.wav est un audio pour le son d'alert en cas de mouvement, vous pouvez le modifier à condition que vous modifier aussi le nom du fichier dans le code.
